@@ -1,39 +1,74 @@
 {
   "project_info": {
-    "project_number": "897274302594",
-    "firebase_url": "https://smartlaundry-da99b.firebaseio.com",
-    "project_id": "smartlaundry-da99b",
-    "storage_bucket": "smartlaundry-da99b.appspot.com"
+    "project_number": "763927796971",
+    "firebase_url": "https://loundary-system.firebaseio.com",
+    "project_id": "loundary-system",
+    "storage_bucket": "loundary-system.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:897274302594:android:4d73338bf098d963",
+        "mobilesdk_app_id": "1:763927796971:android:9efab42b5c605b89deb2ae",
         "android_client_info": {
           "package_name": "com.example.lenovo.laundry2"
         }
       },
       "oauth_client": [
         {
-          "client_id": "897274302594-ndtej9rgsd8fdj5iadkuin1jr5nu6rg8.apps.googleusercontent.com",
+          "client_id": "763927796971-l3h3dptj62h4jea5itkadmbbbohia148.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA1uZK7YKrD0VNJtKMAO-2w02kIz0LEAfI"
+          "current_key": "AIzaSyBaAOEelixIMMuqJ18Ta4sjiItfOlZCpBY"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763927796971-l3h3dptj62h4jea5itkadmbbbohia148.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763927796971:android:5f1851985509f2eedeb2ae",
+        "android_client_info": {
+          "package_name": "com.nitcloundary.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763927796971-p3rr904jqred5l77q6m0sfv3lveutcrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitcloundary.app",
+            "certificate_hash": "bd5951fd52a2e5972774460a2a97e3eb1eeea971"
+          }
         },
-        "ads_service": {
-          "status": 2
+        {
+          "client_id": "763927796971-l3h3dptj62h4jea5itkadmbbbohia148.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAOEelixIMMuqJ18Ta4sjiItfOlZCpBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763927796971-l3h3dptj62h4jea5itkadmbbbohia148.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

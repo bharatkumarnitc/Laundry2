@@ -100,7 +100,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         }
 
         mAuth=FirebaseAuth.getInstance();
-        mref=new Firebase("https://smartlaundry-da99b.firebaseio.com/").child("Users");
+        mref=new Firebase("https://loundary-system.firebaseio.com/").child("Users");
 
 
         mEmailView = (AutoCompleteTextView) findViewById(R.id.email);

@@ -46,7 +46,7 @@ public class Register extends AppCompatActivity {
         }
         mAuth=FirebaseAuth.getInstance();
         mdb= FirebaseDatabase.getInstance().getReference().child("Users");
-        mref=new Firebase("https://smartlaundry-da99b.firebaseio.com/").child("Users");
+        mref=new Firebase("https://loundary-system.firebaseio.com/").child("Users");
         AuthData curr_user=mref.getAuth();
 
 
